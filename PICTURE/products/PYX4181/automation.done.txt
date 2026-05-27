@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=d33794e94da027d83629bf9f37ea1d0f4422f0cfce5cf2893fadfd6df8eced80
+productTextHash=4c2927e1b9c7aa51a474d5e8597e195d6a27e534cf341653b747cef9076ba2d2
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\PYX4181\v002
+version=v002
+promptSchemaVersion=direction-v2
+completedAt=2026-05-26T10:51:40.9481061Z

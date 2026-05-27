@@ -1,0 +1,4 @@
+.tmp/
+outputs/
+*.local.json
+*.log

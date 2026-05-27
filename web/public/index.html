@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AODING Etsy Picture Console</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">AODING Etsy Picture</p>
+        <h1>基础生图控制台</h1>
+        <p id="health-line" class="muted-line"></p>
+      </div>
+      <div class="top-actions">
+        <form id="user-form" class="user-form">
+          <input id="user-name-input" placeholder="用户名" autocomplete="username">
+          <button type="submit">切换用户</button>
+        </form>
+        <button id="scan-button" type="button">扫描</button>
+        <button id="refresh-button" type="button">刷新</button>
+      </div>
+    </header>
+
+    <section class="layout">
+      <aside class="sidebar">
+        <div class="panel-title">
+          <h2>产品</h2>
+          <button id="new-product-toggle" type="button">新建</button>
+        </div>
+        <input id="product-search" class="search-input" placeholder="搜索 SKU / 产品" autocomplete="off">
+        <form id="new-product-form" class="new-product hidden">
+          <input name="productName" placeholder="产品文件夹名 / SKU" required>
+          <textarea name="productText" placeholder="直接填写 product.txt 原文"></textarea>
+          <input name="images" type="file" accept="image/*" multiple>
+          <button class="primary" type="submit">创建产品</button>
+        </form>
+        <div id="product-list" class="product-list"></div>
+      </aside>
+
+      <section class="workspace">
+        <div id="empty-state" class="empty-state">选择一个产品开始</div>
+        <div id="product-workspace" class="product-console hidden">
+          <section class="toolbar-panel">
+            <div>
+              <p class="eyebrow">当前产品</p>
+              <h2 id="product-title"></h2>
+              <p id="product-status" class="muted-line"></p>
+            </div>
+            <div class="button-row">
+              <label class="checkbox-row">
+                <input id="ready-checkbox" type="checkbox">
+                <span>ready.txt</span>
+              </label>
+              <button id="save-product-button" type="button">保存</button>
+              <button id="prepare-button" class="primary" type="button">运行 prepare</button>
+              <button id="delete-product-button" class="danger" type="button">删除产品</button>
+            </div>
+          </section>
+
+          <section class="content-grid">
+            <section class="panel product-text-panel">
+              <div class="panel-title">
+                <div>
+                  <h2>product.txt</h2>
+                  <p class="muted-line">这是唯一可编辑的生成说明入口，网页不会自动拆字段或生成图位内容。</p>
+                </div>
+              </div>
+              <textarea id="product-text" class="product-text-editor" spellcheck="false"></textarea>
+            </section>
+
+            <section class="panel source-panel">
+              <div class="panel-title">
+                <div>
+                  <h2>产品源图</h2>
+                  <p class="muted-line">上传到 PICTURE\\products\\产品名，用于锁定产品形状。</p>
+                </div>
+                <form id="image-form" class="file-row">
+                  <input id="image-input" type="file" accept="image/*" multiple>
+                  <button type="submit">上传</button>
+                </form>
+              </div>
+              <div id="source-grid" class="image-grid"></div>
+            </section>
+
+            <section class="panel output-panel">
+              <div class="panel-title">
+                <div>
+                  <h2>输出图</h2>
+                  <p class="muted-line">选择运行版本后查看对应输出。</p>
+                </div>
+                <span id="output-count" class="count-chip"></span>
+              </div>
+              <div id="run-list" class="run-list"></div>
+              <div id="output-grid" class="image-grid output-grid"></div>
+              <pre id="action-output" class="action-output"></pre>
+            </section>
+          </section>
+        </div>
+      </section>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=17f959cb96aa9d515fa36092afb8b93754d399cfb05a445326cfe7e921c00317
+productTextHash=5956e5b692b612d8a4d5cb1ab73be58627ab9716123eeaa4362173d3f1a82731
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\1688-889163508213\v001
+version=v001
+promptSchemaVersion=direction-v2
+completedAt=2026-05-20T11:10:52.9917252Z

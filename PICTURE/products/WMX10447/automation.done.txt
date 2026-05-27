@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=9d2005d245a4a543a189d39f4151c4f30079e9df45400abb96896b04a59f2e57
+productTextHash=4c2927e1b9c7aa51a474d5e8597e195d6a27e534cf341653b747cef9076ba2d2
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\WMX10447\v002
+version=v002
+promptSchemaVersion=direction-v2
+completedAt=2026-05-26T11:15:20.8654329Z

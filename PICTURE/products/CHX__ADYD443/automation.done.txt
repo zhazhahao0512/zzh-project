@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=d81f5f02e1f394d0264d2632f068cef4ab3397a83ae66beb87f8ce4c5920123a
+productTextHash=183e0a06017a02083240d28766902b8de92facc4cb98e8105306ea7b4b61add3
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\CHX__ADYD443\v002
+version=v002
+promptSchemaVersion=direction-v2
+completedAt=2026-05-23T08:31:44.4597917Z
