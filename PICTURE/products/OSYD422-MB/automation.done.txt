@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=fc3173382341727569fba1b046f5d3ac625efd19af5efb2400e3967a556192e5
+productTextHash=4c2927e1b9c7aa51a474d5e8597e195d6a27e534cf341653b747cef9076ba2d2
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\OSYD422-MB\v002
+version=v002
+promptSchemaVersion=direction-v2
+completedAt=2026-05-26T10:28:25.1535382Z

@@ -1,0 +1,11 @@
+{
+  "name": "aoding-etsy-picture-console",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LAN console for the AODING Etsy picture workflow.",
+  "main": "web/server.js",
+  "scripts": {
+    "web": "node web/server.js"
+  },
+  "dependencies": {}
+}

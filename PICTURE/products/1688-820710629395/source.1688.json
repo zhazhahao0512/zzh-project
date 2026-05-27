@@ -1,0 +1,67 @@
+{
+    "sourceMode":  "1688-link-table",
+    "syncedAt":  "2026-05-09T10:29:44.3556143Z",
+    "table":  "D:\\zhuomian\\codex\\1688-picture\\old\\1688-products.csv",
+    "rowNumber":  3,
+    "productUrl":  "https://detail.1688.com/offer/820710629395.html?src=zhanwai\u0026pid=302042_0000\u0026ptid=01770000000a0da7426608d3cebb3713\u0026exp=enquiry:B;queryMobilePhone:A;xlyx:B\u0026_force_exp_buckets_=11803,2024061701,2024011602\u0026spm=a2638t.b_30496503.szyx_offer_list.7.50b0436cLPQabZ\u0026cosite=bingjj_pz\u0026ilike_session=43afc033627a40a5a1c821c174aebdae\u0026tracelog=p4p\u0026_p_isad=1\u0026clickid=43afc033627a40a5a1c821c174aebdae\u0026sessionid=081aebec675d52b35ede62831df2eb8a\u0026a=1736\u0026e=WsgvpJddiwyQgV3XCjgNJ7LfaupOvlS.xBcWnjtTjoKyLK2ywLgrnqHSb8CPuzysQR6fItqdsjFQwfjXOVrdOthGpohRvg2n4RYVNrVXyectCi2CjJaPxPzo5D942FHTuH6yXkqpUsLhEH1QAPv1WpH-T4VzHraSZtx8AK2yhTs-TOcCu2jUy.B5NQkSvHnyeuafupjyMi-b6sh0n0LjRPqyH3-yi6mFPjFlXn80mAyxAQRm2OplinNuibXlofw3\u0026sk=sem\u0026style=1",
+    "productFolder":  "1688-820710629395",
+    "downloadedImages":  [
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01GelSWk1S1EmBHnuyh_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-01.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-01.jpg",
+                                 "bytes":  83798,
+                                 "width":  800,
+                                 "height":  800,
+                                 "changed":  false
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01tZ07kX1S1EmCWODJw_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-02.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-02.jpg",
+                                 "bytes":  79767,
+                                 "width":  799,
+                                 "height":  799,
+                                 "changed":  false
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01Sukq5f1S1EmEgMIRS_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-03.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-03.jpg",
+                                 "bytes":  123855,
+                                 "width":  800,
+                                 "height":  800,
+                                 "changed":  false
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01SaBrMZ1S1EmCWOPnk_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-04.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-04.jpg",
+                                 "bytes":  88431,
+                                 "width":  800,
+                                 "height":  800,
+                                 "changed":  false
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN0147OwaB1S1Em3Y9NM1_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-05.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-05.jpg",
+                                 "bytes":  33147,
+                                 "width":  800,
+                                 "height":  800,
+                                 "changed":  false
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01y77AdN1S1EmCX9H9H_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-06.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-820710629395\\source-06.jpg",
+                                 "bytes":  45298,
+                                 "width":  800,
+                                 "height":  760,
+                                 "changed":  false
+                             }
+                         ],
+    "errors":  [
+
+               ]
+}

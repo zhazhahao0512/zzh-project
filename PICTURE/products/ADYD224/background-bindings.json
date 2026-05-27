@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "background-bindings-v1",
+  "updatedAt": "2026-05-21T09:12:00.000Z",
+  "slots": {
+    "01-main": {
+      "backgroundOnlyDescription": "Warm natural wooden tabletop background with a few soft white dried flowers near the frame edges, gentle diffuse natural light from above, shallow depth of field, warm editorial still-life mood, and clean central space for the product. Do not include the reference image's black moon pendant, gold chain, floral pendant details, black drop charm, or any other jewelry/product subject.",
+      "images": [
+        {
+          "name": "light-studio-1779350711234-1-pasted-background-1779350711199-1.png",
+          "backgroundOnlyDescription": "Warm natural wooden tabletop background with a few soft white dried flowers near the frame edges, gentle diffuse natural light from above, shallow depth of field, warm editorial still-life mood, and clean central space for the product. Do not include the reference image's black moon pendant, gold chain, floral pendant details, black drop charm, or any other jewelry/product subject.",
+          "updatedAt": "2026-05-21T09:12:00.000Z"
+        }
+      ]
+    }
+  }
+}

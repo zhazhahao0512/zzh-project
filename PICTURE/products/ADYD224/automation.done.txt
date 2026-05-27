@@ -1,0 +1,7 @@
+﻿status=complete
+inputHash=8fc7d8511235c604ba77d24819a0c790c3d9effcfe38d083ea862d2cb39f0244
+productTextHash=56a3d96e3c0caa7ae6c5dd91da9056d25ba6309f928e54009fede5e97450e0bb
+runDir=D:\zhuomian\codex\AODING-ETSY-picture\PICTURE\outputs\ADYD224\v001
+version=v001
+promptSchemaVersion=direction-v2
+completedAt=2026-05-21T04:22:35.9249270Z

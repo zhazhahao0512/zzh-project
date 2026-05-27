@@ -1,0 +1,58 @@
+{
+    "sourceMode":  "1688-link-table",
+    "syncedAt":  "2026-05-15T09:05:31.5318124Z",
+    "table":  "D:\\zhuomian\\codex\\1688-picture\\old\\1688-products.csv",
+    "rowNumber":  4,
+    "productUrl":  "https://detail.1688.com/offer/864823764582.html?src=zhanwai\u0026pid=302042_0000\u0026ptid=01770000000a2c2106f706410ecf82a7\u0026exp=enquiry%3AB%3BqueryMobilePhone%3AA%3Bxlyx%3AB\u0026_force_exp_buckets_=11803%2C2024061701%2C2024011602\u0026spm=a2638t.b_30496503.szyx_offer_list.38.50b0436ctc2DLf\u0026cosite=bingjj_pz\u0026ilike_session=55c760e62f34431fa98498f6f53ce3bf\u0026tracelog=p4p\u0026_p_isad=1\u0026clickid=55c760e62f34431fa98498f6f53ce3bf\u0026sessionid=9d80214631118da93e7bf6dec963a2c6\u0026a=1185\u0026e=NdBKC-cAM4dDTWjC-T6pUPW441UN6DKYwwQLWbNxTWpdxIfCtPZPN7-5IvAmJbuH3AccHtu9Axm8MkHGrS73eMcpdoC3H3eaeozLxZL-qG.3BZS4gOjSjTccHHa1Q8NxrsRFahf6mpNQkC6CA1BildzzctKx4iPlwQdzGIAE0hUbAue9AM3jI6NtQQkgYH3iTnMosqUXQzIp5xA88jT6oq9PDXolWqh-7nELzoJ58Uk5N7Pn9lQery4I0gAnD.1M\u0026sk=sem\u0026style=1",
+    "productFolder":  "1688-864823764582",
+    "downloadedImages":  [
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01pC8Bt41S1EoxWtVRT_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-01.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-864823764582\\source-01.jpg",
+                                 "bytes":  208760,
+                                 "width":  1920,
+                                 "height":  1920,
+                                 "changed":  true
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01SBbOXL1S1EoxGNIXy_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-02.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-864823764582\\source-02.jpg",
+                                 "bytes":  716330,
+                                 "width":  1920,
+                                 "height":  1920,
+                                 "changed":  true
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01o9BaH81S1Eoz4uKe2_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-03.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-864823764582\\source-03.jpg",
+                                 "bytes":  731861,
+                                 "width":  1920,
+                                 "height":  1920,
+                                 "changed":  true
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01fRBsEL1S1EoqknMD2_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-04.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-864823764582\\source-04.jpg",
+                                 "bytes":  325863,
+                                 "width":  1639,
+                                 "height":  1639,
+                                 "changed":  true
+                             },
+                             {
+                                 "sourceUrl":  "https://cbu01.alicdn.com/img/ibank/O1CN01ACK9Ch1S1Eov56Jbn_!!2215505162186-0-cib.jpg",
+                                 "file":  "source-05.jpg",
+                                 "path":  "D:\\zhuomian\\codex\\1688-picture\\old\\products\\1688-864823764582\\source-05.jpg",
+                                 "bytes":  195043,
+                                 "width":  1401,
+                                 "height":  1401,
+                                 "changed":  true
+                             }
+                         ],
+    "errors":  [
+                   "Image download failed: https://air.1688.com/pages/od/similar-offer/dyysiqr81/index.html?tdScene=similar-offer\u0026offerId=864823764582\u0026userId=0\u0026url=https://cbu01.alicdn.com/img/ibank/O1CN01pC8Bt41S1EoxWtVRT_!!2215505162186-0-cib.jpg - Downloaded image was not readable: Exception calling \"FromStream\" with \"1\" argument(s): \"Parameter is not valid.\""
+               ]
+}
